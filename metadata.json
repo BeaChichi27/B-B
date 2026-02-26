@@ -1,0 +1,5 @@
+{
+  "name": "MAS Database",
+  "description": "A professional management system for B&B owners to track bookings, manage guest documents via Firebase, and integrate with Google Sheets.",
+  "requestFramePermissions": []
+}
